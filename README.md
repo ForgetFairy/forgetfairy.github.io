@@ -1,2 +1,0 @@
-# forgetfairy.github.io
-blog
